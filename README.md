@@ -2,9 +2,7 @@
 ## ROS command cheat sheet
 
 Tables from Pyo's ros seminar
-
 https://github.com/robotpilot/ros-seminar
-
 There are English and Korean Version.
 
 
