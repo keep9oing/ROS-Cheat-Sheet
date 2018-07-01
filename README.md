@@ -3,12 +3,14 @@
 
 Tables from Pyo's ros seminar
 
+https://github.com/robotpilot/ros-seminar
+
+There are English and Korean Version.
+
+
 표윤석님의 ros seminar 자료를 참고하여 만들었습니다.
 
 https://github.com/robotpilot/ros-seminar
-
-
-Eng/Kor Versions.
 
 영어/한글 버젼이 있습니다.
 
