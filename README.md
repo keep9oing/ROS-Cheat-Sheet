@@ -6,10 +6,8 @@ https://github.com/robotpilot/ros-seminar
 There are English and Korean Version.
 
 
-표윤석님의 ros seminar 자료를 참고하여 만들었습니다.
-
+표윤석님의 ros seminar 자료를 참고하여 만들었습니다.<br>
 https://github.com/robotpilot/ros-seminar
-
 영어/한글 버젼이 있습니다.
 
 
